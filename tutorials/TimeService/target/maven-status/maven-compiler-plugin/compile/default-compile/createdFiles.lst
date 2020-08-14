@@ -1,0 +1,6 @@
+io\jexxa\tutorials\timeservice\infrastructure\drivenadapter\messaging\JMSPublisher.class
+io\jexxa\tutorials\timeservice\TimeServiceApplication.class
+io\jexxa\tutorials\timeservice\infrastructure\drivingadapter\messaging\PublishTimeListener.class
+io\jexxa\tutorials\timeservice\applicationService\TimeService.class
+io\jexxa\tutorials\timeservice\domainservice\ITimePublisher.class
+io\jexxa\tutorials\timeservice\infrastructure\drivenadapter\console\ConsolePublisher.class

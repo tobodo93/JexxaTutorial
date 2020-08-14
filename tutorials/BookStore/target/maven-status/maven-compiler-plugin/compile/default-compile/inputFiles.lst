@@ -1,0 +1,11 @@
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\domain\valueobject\ISBN13.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\applicationservice\BookStoreService.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\domain\aggregate\Book.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\domainservice\IDomainEventPublisher.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\domainservice\ReferenceLibrary.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\infrastrucutre\drivenadapter\console\ConsolePublisher.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\domain\domainevent\BookSoldOut.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\domain\businessexception\BookNotInStockException.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\domainservice\IBookRepository.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\BookStoreApplication.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\src\main\java\io\jexxa\tutorials\bookstore\infrastrucutre\drivenadapter\persistence\BookRepository.java

@@ -1,0 +1,6 @@
+io.jexxa.tutorials.timeservice
+io.jexxa.tutorials.timeservice.applicationService
+io.jexxa.tutorials.timeservice.domainservice
+io.jexxa.tutorials.timeservice.infrastructure.drivenadapter.console
+io.jexxa.tutorials.timeservice.infrastructure.drivenadapter.messaging
+io.jexxa.tutorials.timeservice.infrastructure.drivingadapter.messaging
