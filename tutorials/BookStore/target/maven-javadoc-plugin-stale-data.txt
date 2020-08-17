@@ -1,0 +1,27 @@
+cmd.exe
+/X
+/C
+"C:\SEUIDE\software\openJDK-11.0.1\bin\javadoc.exe @options @packages"
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\allclasses-index.html = 1597649980163
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\allclasses.html = 1597649980184
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\allpackages-index.html = 1597649980163
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\constant-values.html = 1597649979817
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\deprecated-list.html = 1597649980174
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\element-list = 1597649979645
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\help-doc.html = 1597649980214
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\index-all.html = 1597649980143
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\index.html = 1597649980194
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\member-search-index.js = 1597649980133
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\member-search-index.zip = 1597649980143
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\options = 1597649976512
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\overview-summary.html = 1597649980204
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\overview-tree.html = 1597649980072
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\package-search-index.js = 1597649980121
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\package-search-index.zip = 1597649980123
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\packages = 1597649976514
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\script.js = 1597649980224
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\search.js = 1597649980224
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\serialized-form.html = 1597649979837
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\stylesheet.css = 1597649980222
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\type-search-index.js = 1597649980133
+C:\Users\di39258\JexxaTutorial\tutorials\BookStore\target\apidocs\type-search-index.zip = 1597649980133
