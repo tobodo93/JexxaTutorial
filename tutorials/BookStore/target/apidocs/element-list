@@ -1,9 +1,0 @@
-io.jexxa.tutorials.bookstore
-io.jexxa.tutorials.bookstore.applicationservice
-io.jexxa.tutorials.bookstore.domain.aggregate
-io.jexxa.tutorials.bookstore.domain.businessexception
-io.jexxa.tutorials.bookstore.domain.domainevent
-io.jexxa.tutorials.bookstore.domain.valueobject
-io.jexxa.tutorials.bookstore.domainservice
-io.jexxa.tutorials.bookstore.infrastrucutre.drivenadapter.console
-io.jexxa.tutorials.bookstore.infrastrucutre.drivenadapter.persistence
