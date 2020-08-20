@@ -1,4 +1,4 @@
-package io.jexxa.tutorials.bookstore.infrastrucutre.drivenadapter.persistence;
+package io.jexxa.tutorials.bookstore.infrastructure.drivenadapter.persistence;
 
 
 
