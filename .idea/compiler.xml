@@ -13,7 +13,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hellojexxa" />
         <module name="BookStore" />
+        <module name="jexxa-adapter-api" />
         <module name="timeservice" />
+        <module name="jexxa-core" />
       </profile>
     </annotationProcessing>
   </component>
@@ -21,6 +23,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="BookStore" options="-Xlint:all" />
       <module name="hellojexxa" options="-Xlint:all" />
+      <module name="jexxa-adapter-api" options="-Xlint:all" />
+      <module name="jexxa-core" options="-Xlint:all" />
       <module name="timeservice" options="-Xlint:all" />
     </option>
   </component>

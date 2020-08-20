@@ -1,0 +1,12 @@
+io.jexxa.core
+io.jexxa.core.convention
+io.jexxa.core.factory
+io.jexxa.infrastructure.drivenadapterstrategy.messaging
+io.jexxa.infrastructure.drivenadapterstrategy.messaging.jms
+io.jexxa.infrastructure.drivenadapterstrategy.persistence
+io.jexxa.infrastructure.drivenadapterstrategy.persistence.imdb
+io.jexxa.infrastructure.drivenadapterstrategy.persistence.jdbc
+io.jexxa.infrastructure.drivingadapter.jmx
+io.jexxa.infrastructure.drivingadapter.messaging
+io.jexxa.infrastructure.drivingadapter.rest
+io.jexxa.utils

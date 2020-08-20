@@ -1,0 +1,27 @@
+cmd.exe
+/X
+/C
+"C:\SEUIDE\software\openJDK-11.0.1\bin\javadoc.exe @options @packages"
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\allclasses-index.html = 1597656206711
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\allclasses.html = 1597656206736
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\allpackages-index.html = 1597656206716
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\constant-values.html = 1597656206143
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\deprecated-list.html = 1597656206731
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\element-list = 1597656205915
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\help-doc.html = 1597656206766
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\index-all.html = 1597656206692
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\index.html = 1597656206746
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\member-search-index.js = 1597656206682
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\member-search-index.zip = 1597656206686
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\options = 1597656201352
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\overview-summary.html = 1597656206760
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\overview-tree.html = 1597656206576
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\package-search-index.js = 1597656206664
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\package-search-index.zip = 1597656206670
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\packages = 1597656201354
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\script.js = 1597656206778
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\search.js = 1597656206785
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\serialized-form.html = 1597656206167
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\stylesheet.css = 1597656206773
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\type-search-index.js = 1597656206673
+C:\Users\di39258\JexxaTutorial\jexxa-core\target\apidocs\type-search-index.zip = 1597656206677

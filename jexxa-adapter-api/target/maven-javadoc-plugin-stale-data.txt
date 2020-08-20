@@ -1,0 +1,25 @@
+cmd.exe
+/X
+/C
+"C:\SEUIDE\software\openJDK-11.0.1\bin\javadoc.exe @options @packages"
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\allclasses-index.html = 1597663633305
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\allclasses.html = 1597663633334
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\allpackages-index.html = 1597663633312
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\constant-values.html = 1597663633170
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\deprecated-list.html = 1597663633328
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\element-list = 1597663633114
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\help-doc.html = 1597663633347
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\index-all.html = 1597663633280
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\index.html = 1597663633340
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\member-search-index.js = 1597663633271
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\member-search-index.zip = 1597663633275
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\options = 1597663631032
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\overview-tree.html = 1597663633230
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\package-search-index.js = 1597663633256
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\package-search-index.zip = 1597663633263
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\packages = 1597663631035
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\script.js = 1597663633360
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\search.js = 1597663633367
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\stylesheet.css = 1597663633355
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\type-search-index.js = 1597663633265
+C:\Users\di39258\JexxaTutorial\jexxa-adapter-api\target\apidocs\type-search-index.zip = 1597663633269

@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/JexxaTutorial/HelloJexxa/pom.xml" />
         <option value="$PROJECT_DIR$/JexxaTutorial/TimeService/pom.xml" />
         <option value="$PROJECT_DIR$/JexxaTutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/jexxa-core/pom.xml" />
+        <option value="$PROJECT_DIR$/jexxa-adapter-api/pom.xml" />
       </list>
     </option>
   </component>
