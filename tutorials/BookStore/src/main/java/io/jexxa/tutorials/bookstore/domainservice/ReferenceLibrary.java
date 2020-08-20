@@ -5,6 +5,7 @@ import static io.jexxa.tutorials.bookstore.domain.aggregate.Book.newBook;
 import java.util.stream.Stream;
 
 import io.jexxa.tutorials.bookstore.domain.valueobject.ISBN13;
+import io.jexxa.tutorials.bookstore.domainservice.IBookRepository;
 import org.apache.commons.lang3.Validate;
 
 public class ReferenceLibrary
