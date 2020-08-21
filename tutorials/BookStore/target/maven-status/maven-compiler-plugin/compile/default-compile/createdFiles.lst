@@ -4,8 +4,8 @@ io\jexxa\tutorials\bookstore\domainservice\ReferenceLibrary.class
 io\jexxa\tutorials\bookstore\domain\valueobject\ISBN13.class
 io\jexxa\tutorials\bookstore\domain\domainevent\BookSoldOut.class
 io\jexxa\tutorials\bookstore\domainservice\IDomainEventPublisher.class
-io\jexxa\tutorials\bookstore\infrastrucutre\drivenadapter\console\ConsolePublisher.class
-io\jexxa\tutorials\bookstore\infrastrucutre\drivenadapter\persistence\BookRepository.class
+io\jexxa\tutorials\bookstore\infrastructure\drivenadapter\console\ConsolePublisher.class
+io\jexxa\tutorials\bookstore\infrastructure\drivenadapter\persistence\BookRepository.class
 io\jexxa\tutorials\bookstore\BookStoreApplication.class
 io\jexxa\tutorials\bookstore\domain\aggregate\Book.class
 io\jexxa\tutorials\bookstore\domainservice\IBookRepository.class
