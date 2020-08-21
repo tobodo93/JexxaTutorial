@@ -1,0 +1,28 @@
+cmd.exe
+/X
+/C
+"C:\SEUIDE\software\openJDK-11.0.1\bin\javadoc.exe @options @packages @argfile"
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\allclasses-index.html = 1598012727941
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\allclasses.html = 1598012727972
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\allpackages-index.html = 1598012727951
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\argfile = 1598012723977
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\constant-values.html = 1598012727579
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\deprecated-list.html = 1598012727964
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\element-list = 1598012727378
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\help-doc.html = 1598012728004
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\index-all.html = 1598012727928
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\index.html = 1598012727985
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\member-search-index.js = 1598012727919
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\member-search-index.zip = 1598012727922
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\options = 1598012723970
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\overview-summary.html = 1598012727996
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\overview-tree.html = 1598012727859
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\package-search-index.js = 1598012727900
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\package-search-index.zip = 1598012727907
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\packages = 1598012723973
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\script.js = 1598012728020
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\search.js = 1598012728025
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\serialized-form.html = 1598012727600
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\stylesheet.css = 1598012728015
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\type-search-index.js = 1598012727911
+C:\Users\di39258\JexxaTutorial\tutorials\BookSotreJ\target\apidocs\type-search-index.zip = 1598012727915
