@@ -25,10 +25,6 @@ ftutorials/TimeService/src/main/java/io/jexxa/tutorials/timeservice/applicationS
 ttutorials/BookStore/src/main/java/io/jexxa/tutorials/bookstore/domain/businessexception/BookNotInStockException.java,2\8\28c3b7c72b61239d7e4fc7deffd9df008d948159
 í
 btutorials/BookStore/src/main/java/io/jexxa/tutorials/bookstore/domain/domainevent/BookSoldOut.java,8\d\8d56cb714098dd4ba52cfbb91d2c0cf5597e065b
-´
-{tutorials/BookStore/src/main/java/io/jexxa/tutorials/bookstore/infrastrucutre/drivenadapter/persistence/BookRepository.java,c\2\c2a5c30c4aaa949bc5e12d36f140bbddbde1ee56
-©
-ytutorials/BookStore/src/main/java/io/jexxa/tutorials/bookstore/infrastrucutre/drivenadapter/console/ConsolePublisher.java,6\2\62cd63a81ca6404c89008aabf61dafd4c9a8231e
 ç
 ]tutorials/BookStore/src/main/java/io/jexxa/tutorials/bookstore/domain/valueobject/ISBN13.java,d\a\da58665b3afcc646f9315b4436735bd9cb56c00e
 ó
@@ -55,3 +51,9 @@ e
 5jexxa-core/src/main/java/io/jexxa/core/JexxaMain.java,c\5\c59b378075c8d6579dc5c1153b3e126ea07ee14e
 à
 Xtutorials/BookStore/src/main/java/io/jexxa/tutorials/bookstore/BookStoreApplication.java,e\4\e43a05fd5bc28f4ef4c31d030bc019c2abb1448e
+´
+{tutorials/BookStore/src/main/java/io/jexxa/tutorials/bookstore/infrastructure/drivenadapter/persistence/BookRepository.java,f\a\fad3393f7a715f6aafd6deadad9d606bbd8293df
+Æ
+~tutorials/BookStore/src/test/java/io/jexxa/tutorials/bookstore/infrastructure/drivenadapter/stub/DomainEventStubPublisher.java,c\d\cd2bcd37acc150e2e9c99fb9ad2b468b88aa5722
+ñ
+ftutorials/BookStore/src/test/java/io/jexxa/tutorials/bookstore/domainservice/ReferenceLibraryTest.java,1\d\1d781f4ada7156ab1fefe03a26e092bd6a849c16

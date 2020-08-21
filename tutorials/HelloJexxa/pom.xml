@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>tutorials</artifactId>
-        <groupId>io.jexxa.JexxaTutorial</groupId>
+        <groupId>io.jexxa.tutorials</groupId>
         <version>2.2.1-SNAPSHOT</version>
     </parent>
 
