@@ -1,4 +1,4 @@
-package io.jexxa.tutorials.bookstore.applicationservice;
+package io.jexxa.tutorials.bookstorej.applicationservice;
 
 import static io.jexxa.tutorials.bookstore.domain.aggregate.Book.newBook;
 
