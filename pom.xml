@@ -451,21 +451,6 @@
     </profiles>
 
 
-    <distributionManagement>
-        <snapshotRepository>
-            <id>oss.sonatype.org</id>
-            <name>Jexxa snapshot</name>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-            <uniqueVersion>true</uniqueVersion>
-        </snapshotRepository>
-        <repository>
-            <id>oss.sonatype.org</id>
-            <name>Jexxa Maven Packages</name>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2</url>
-            <uniqueVersion>true</uniqueVersion>
-        </repository>
-    </distributionManagement>
-
     <modules>
         <module>jexxa-core</module>
         <module>jexxa-adapter-api</module>
