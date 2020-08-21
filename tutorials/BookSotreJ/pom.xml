@@ -83,6 +83,7 @@
 
             <plugin>
                 <artifactId>maven-shade-plugin</artifactId> <!-- Extend configuration from parent-pom by main class-->
+                <version>3.2.4</version>
                 <executions>
                     <execution>
                         <configuration>
