@@ -94,5 +94,4 @@ jobs:
         SONATYPE_PASSWORD: ${{ secrets.SONATYPE_PASSWORD }}
       run: mvn -s $GITHUB_WORKSPACE/.github/workflows/settings.xml -B package --file pom.xml
       
-    - name: Perform CodeQL Analysis
-      uses: github/codeql-action/analyze@v1
+
