@@ -19,7 +19,7 @@
     <name>HelloJexxa</name>
 
     <properties>
-        <main.class>io.jexxa.io.jexxa.tutorials.timeservice.HelloJexxa</main.class>
+        <main.class>io.jexxa.tutorials.HelloJexxa</main.class>
     </properties>
 
     <build>

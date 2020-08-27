@@ -11,7 +11,7 @@
     <name>TimeService</name>
 
     <properties>
-        <main.class>io.jexxa.tutorials.timeservice.TimeServiceApplication</main.class>
+        <main.class>io.jexxa.tutorials.TimeServiceApplication</main.class>
     </properties>
 
 

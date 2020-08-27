@@ -12,21 +12,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hellojexxa" />
-        <module name="BookStore" />
         <module name="jexxa-adapter-api" />
-        <module name="BookSotreJ" />
+        <module name="BookStore" />
+        <module name="BookStoreJ" />
         <module name="timeservice" />
         <module name="jexxa-core" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="BookStoreJ" target="11" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="BookSotreJ" options="-Xlint:all" />
       <module name="BookStore" options="-Xlint:all" />
+      <module name="BookStoreJ" options="-Xlint:all" />
       <module name="hellojexxa" options="-Xlint:all" />
       <module name="jexxa-adapter-api" options="-Xlint:all" />
       <module name="jexxa-core" options="-Xlint:all" />
