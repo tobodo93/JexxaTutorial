@@ -3,6 +3,7 @@ C:\Users\di39258\JexxaTutorial\tutorials\BookStoreJ\src\main\java\io\jexxa\tutor
 C:\Users\di39258\JexxaTutorial\tutorials\BookStoreJ\src\main\java\io\jexxa\tutorials\bookstorej\domainservice\ReferenceLibrary.java
 C:\Users\di39258\JexxaTutorial\tutorials\BookStoreJ\src\main\java\io\jexxa\tutorials\bookstorej\domain\aggregate\Book.java
 C:\Users\di39258\JexxaTutorial\tutorials\BookStoreJ\src\main\java\io\jexxa\tutorials\bookstorej\domain\valueobject\ISBN13.java
+C:\Users\di39258\JexxaTutorial\tutorials\BookStoreJ\src\main\java\io\jexxa\tutorials\bookstorej\BookStoreJApplication.java
 C:\Users\di39258\JexxaTutorial\tutorials\BookStoreJ\src\main\java\io\jexxa\tutorials\bookstorej\domain\businessexception\BookNotInStockException.java
 C:\Users\di39258\JexxaTutorial\tutorials\BookStoreJ\src\main\java\io\jexxa\tutorials\bookstorej\infrastructure\drivenadapter\persistence\BookRepository.java
 C:\Users\di39258\JexxaTutorial\tutorials\BookStoreJ\src\main\java\io\jexxa\tutorials\bookstorej\domain\Book.java
